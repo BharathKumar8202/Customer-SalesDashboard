@@ -54,10 +54,10 @@ Based on the **provided images**, the dashboard was structured as follows:
 
 ## 📸 Dashboard Previews
 ### **Sales Dashboard** 📊
-![Sales Dashboard Preview](images/sales_dashboard.png)
+![Sales Dashboard Preview](images/sales.png)
 
 ### **Customer Dashboard** 🧑‍💼
-![Customer Dashboard Preview](images/customer_dashboard.png)
+![Customer Dashboard Preview](images/customer.png)
 
 ---
 🚀 **This interactive dashboard empowers users with real-time insights into sales and customer trends, helping businesses make data-driven decisions!**
